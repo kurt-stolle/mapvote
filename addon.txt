@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"Excl's mapvote system"
+	"version"		"CB 1.0"
+	"up_date"		"August 2014"
+	"author_name"		"Excl"
+	"author_email"		"info@casualbananas.com"
+	"author_url"		"casualbananas.com"
+	"info"			"The Excl Mapvote addon"
+	"override"		"0"
+}
