@@ -1,0 +1,2 @@
+# mapvote
+A MapVote plugin
