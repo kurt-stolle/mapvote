@@ -32,6 +32,7 @@ local function doRTV(p)
 
 	if table.Count(voters) >= needed then
 		EXCL_MAPVOTE:Start()
+		voters = {}
 	end
 end
 
